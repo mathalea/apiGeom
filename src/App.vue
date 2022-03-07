@@ -1,0 +1,32 @@
+<script setup lang="ts">
+import { onMounted, ref, computed } from "vue"
+import { Figure } from "m2d/src/ts/Figure"
+
+import Icons from './components/Icons.vue'
+import Styler from './components/Styler.vue'
+
+const figure = new Figure({width: window.screen.width - 300, height: window.screen.availHeight - 100})
+
+onMounted(() => {
+  const svg = document.querySelector('#svg')
+  svg?.appendChild(figure.svg)
+  figure.svg.style.border = 'solid'
+})
+
+</script>
+
+
+
+<template>
+
+<div class="flex">
+    <div id="left">
+      <Icons :figure="figure" />
+      <Styler :figure="figure"/>
+    </div>
+    <div id="svg"></div>
+</div>  
+
+</template>
+
+

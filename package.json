@@ -1,0 +1,27 @@
+{
+  "name": "geoli",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "//": {
+    "m2d": "github:mathalea/m2d",
+    "vue": "^3.2.31"
+  },
+  "dependencies": {
+    "m2d": "file:../m2d",
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23",
+    "typescript": "^4.6.2",
+    "vite": "^2.8.6",
+    "vue-tsc": "^0.29.8"
+  }
+}
