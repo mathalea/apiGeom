@@ -4,7 +4,8 @@ const translations:{ [key: string]: string } = {
     'droitePerpendiculaire': 'perpendicular',
     'mediatrice': 'perpendicularBissector',
     'pointIntersection': 'intersectionLL',
-    'cerclePoint': 'circlePoint'
+    'cerclePoint': 'circlePoint',
+    'polygone': 'polygon'
 }
 
 export function translateButton(frenchWord: string) {
