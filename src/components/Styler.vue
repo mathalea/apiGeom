@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Figure } from "../ts/Figure";
+import { Figure } from 'm2d/src/ts/Figure'
 import { ref } from "vue"
 
 const props = defineProps<{
@@ -12,16 +12,16 @@ const selectedColor = ref('black')
 const dashed = ref(false)
 
 function updateThickness(e: number) {
-    props.figure.pointerOptions.thickness = e
+    props.figure.pointerSetOptions.thickness = e
 }
 function updateColor(e: string) {
     selectedColor.value = e
-    props.figure.pointerOptions.color = e
+    props.figure.pointerSetOptions.color = e
 }
 
 function updateDashed() {
  dashed.value = !dashed.value
- props.figure.pointerOptions.dashed = !props.figure.pointerOptions.dashed
+ props.figure.pointerSetOptions.dashed = !props.figure.pointerSetOptions.dashed
 }
 
 </script>
