@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { Figure } from "m2d/src/ts/Figure"
+import { translateButton } from './translateButtons'
 
 const props = defineProps<{
   figure: Figure
@@ -36,8 +37,7 @@ const selectedIcon = ref('drag')
 
 function toggleState (name: string) {
   selectedIcon.value = name
-  props.figure.pointerAction = name
-  console.log(props.figure)
+  props.figure.pointerAction = translateButton(name)
 }
 
 

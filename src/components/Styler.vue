@@ -13,19 +13,15 @@ const dashed = ref(false)
 
 function updateThickness(e: number) {
     props.figure.pointerOptions.thickness = e
-    console.log(props.figure)
 }
 function updateColor(e: string) {
     selectedColor.value = e
     props.figure.pointerOptions.color = e
-    console.log(selectedColor.value)
-    console.log(props.figure)
 }
 
 function updateDashed() {
  dashed.value = !dashed.value
  props.figure.pointerOptions.dashed = !props.figure.pointerOptions.dashed
- console.log(props.figure)
 }
 
 </script>
