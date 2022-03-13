@@ -5,6 +5,7 @@ const translations:{ [key: string]: string } = {
     'mediatrice': 'perpendicularBissector',
     'pointIntersection': 'intersectionLL',
     'cerclePoint': 'circlePoint',
+    'cercleRayon': 'circleRadius',
     'polygone': 'polygon'
 }
 
