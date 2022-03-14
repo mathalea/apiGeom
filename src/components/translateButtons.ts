@@ -1,5 +1,6 @@
 const translations:{ [key: string]: string } = {
     'drag': 'drag',
+    'masquer': 'hide',
     'supprimer': 'erase',
     'pointLibre': 'freePoint',
     'droite': 'line',
