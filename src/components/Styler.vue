@@ -7,7 +7,7 @@ const props = defineProps<{
 }>()
 
 // ToFix il faut avoir les réglages par défaut
-const thickness = ref(3)
+const thickness = ref(1)
 const selectedColor = ref('black')
 const dashed = ref(false)
 

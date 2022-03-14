@@ -1,12 +1,18 @@
 const translations:{ [key: string]: string } = {
     'drag': 'drag',
+    'supprimer': 'erase',
     'pointLibre': 'freePoint',
+    'droite': 'line',
+    'demiDroite': 'ray',
+    'vecteur': 'vector',
+    'polygone': 'polygon',
     'droitePerpendiculaire': 'perpendicular',
+    'droiteParallele': 'parallel',
     'mediatrice': 'perpendicularBissector',
+    'bissectrice': 'angleBissector',
     'pointIntersection': 'intersectionLL',
     'cerclePoint': 'circlePoint',
-    'cercleRayon': 'circleRadius',
-    'polygone': 'polygon'
+    'cercleRayon': 'circleRadius'
 }
 
 export function translateButton(frenchWord: string) {
