@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="600"
+   style="border-radius:300px"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="corbeille.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.455"
+     inkscape:cx="299.65636"
+     inkscape:cy="299.65636"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="1609"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <line
+     stroke-linecap="round"
+     x1="180"
+     y1="159.25"
+     x2="420"
+     y2="159.25"
+     style="stroke:#333333;stroke-width:30;fill:#e2e3db"
+     id="line7" />
+  <rect
+     x="250"
+     y="129.25"
+     rx="20"
+     ry="20"
+     width="100"
+     height="30"
+     style="stroke:#333333;stroke-width:10;fill:#e2e3db"
+     id="rect9" />
+  <line
+     stroke-linecap="round"
+     x1="189"
+     y1="198.75"
+     x2="200"
+     y2="466.75"
+     style="stroke:#333333;stroke-width:25;fill:#e2e3db"
+     id="line11" />
+  <line
+     id="bottom"
+     stroke-linecap="round"
+     x1="411"
+     y1="198.75"
+     x2="400"
+     y2="466.75"
+     style="stroke:#333333;stroke-width:25;fill:#e2e3db" />
+  <line
+     stroke-linecap="square"
+     x1="189"
+     y1="198.75"
+     x2="411"
+     y2="198.75"
+     style="stroke:#333333;stroke-width:25;fill:#e2e3db"
+     id="line14" />
+  <line
+     stroke-linecap="round"
+     x1="203"
+     y1="470.75"
+     x2="397"
+     y2="470.75"
+     style="stroke:#333333;stroke-width:30;fill:#e2e3db"
+     id="line16" />
+  <line
+     stroke-linecap="round"
+     x1="260"
+     y1="198.75"
+     x2="265"
+     y2="470.75"
+     style="stroke:#333333;stroke-width:25;fill:#e2e3db"
+     id="line18" />
+  <line
+     stroke-linecap="round"
+     x1="340"
+     y1="198.75"
+     x2="335"
+     y2="470.75"
+     style="stroke:#333333;stroke-width:25;fill:#e2e3db"
+     id="line20" />
+</svg>
+<!---->
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="172"
+   height="172"
+   viewBox="0 0 172 172"
+   id="svg4328"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="CercOA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4330" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.627907"
+     inkscape:cx="86.094092"
+     inkscape:cy="86.282276"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="1609"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata4333">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.585071,-34.933635)">
+    <ellipse
+       cy="121.43363"
+       cx="117.08508"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#0e232e;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3386"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\CercOA.png"
+       inkscape:export-xdpi="24.994829"
+       inkscape:export-ydpi="24.994829"
+       rx="67.943108"
+       ry="67.00219" />
+    <path
+       id="rect1225"
+       style="fill:#d40000;stroke:#800000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 130.56652,103.50458 -13.30307,12.46222 -12.46223,-13.30306 -5.644494,5.28773 12.462224,13.30306 -13.303059,12.46224 5.287729,5.64451 13.30308,-12.46224 12.46356,13.30449 5.6445,-5.28774 -12.46357,-13.30448 13.30307,-12.46224 z" />
+    <path
+       id="path916"
+       style="fill:#d40000;stroke:#800000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 198.31269,101.52865 -13.30307,12.46222 -12.46223,-13.30306 -5.64449,5.28773 12.46222,13.30306 -13.30306,12.46224 5.28773,5.64451 13.30308,-12.46224 12.46356,13.30449 5.6445,-5.28774 -12.46357,-13.30448 13.30307,-12.46224 z" />
+  </g>
+</svg>

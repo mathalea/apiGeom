@@ -9,7 +9,7 @@ const props = defineProps<{
 
 const searchText = ref('')
 
-const drag = ['drag', 'nommerPoint', 'setOptions', 'masquer', 'supprimer']
+const drag = ['drag', 'nommerPoint', 'setOptions', 'cacher', 'supprimer']
 const points = ['pointLibre', 'pointSur', 'pointIntersection', 'pointMilieu', 'pointCoordonnees']
 const traits = ['segment', 'droite', 'demiDroite', 'vecteur', 'polygone']
 const droitesParticulieres = ['droiteParallele', 'droitePerpendiculaire', 'mediatrice', 'bissectrice']
@@ -62,9 +62,10 @@ function toggleState (name: string) {
       mr-2
       mb-2
       cursor-pointer
+      w-12
     "
     :class="{'bg-slate-100 border-blue-600 shadow-2xl' : (selectedIcon === name)}"
-    :src="`/png/${name}.png`"
+    :src="`/svg/${name}.svg`"
     @click="toggleState(name)"
   />
   </li>
