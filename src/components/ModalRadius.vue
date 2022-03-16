@@ -1,11 +1,17 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted, nextTick } from 'vue'
 import Modal from './Modal.vue'
 
 const radius = ref(4)
 const showModal = ref(false)
 
-window.addEventListener('waitForRadius', () => showModal.value = true)
+const inputRadius = ref(null)
+
+window.addEventListener('waitForRadius', async () => {
+  showModal.value = true
+  await nextTick()
+  if (inputRadius.value) inputRadius.value.focus()
+})
 
 function addCircle() {
   const event = new CustomEvent('radiusIsSet', {detail: radius.value})
@@ -22,7 +28,7 @@ function addCircle() {
        <h1 class="font-mono font-extrabold text-blue-700 text-l">Rayon du cercle</h1>
       </template>
       <template #body>
-        <input v-model="radius" type="number" min="0" class="border border-black rounded-lg p-1" />
+        <input ref="inputRadius" v-model="radius" v-on:keyup.enter="addCircle" type="number" min="0" class="border border-black rounded-lg p-1" />
       </template>
       <template #footer>
         <button class="border border-black rounded-lg p-1 mb-2" @click="addCircle">Valider</button>
