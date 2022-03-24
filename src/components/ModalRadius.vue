@@ -3,19 +3,19 @@ import { ref, nextTick } from 'vue'
 import Modal from './Modal.vue'
 
 const radius = ref(4)
-const showModal = ref(false)
+const showModalRadius = ref(false)
 
 const inputRadius = ref(null)
 
 window.addEventListener('waitForRadius', async () => {
-  showModal.value = true
+  showModalRadius.value = true
   await nextTick()
   if (inputRadius.value) inputRadius.value.focus()
 })
 
 function addCircle() {
   const event = new CustomEvent('radiusIsSet', {detail: radius.value})
-  showModal.value = false
+  showModalRadius.value = false
   window.dispatchEvent(event)
 }
 
@@ -23,7 +23,7 @@ function addCircle() {
 
 <template>
   <Teleport to="body">
-    <modal :show="showModal" @close="showModal = false">
+    <modal :show="showModalRadius" @close="showModalRadius = false">
       <template #header>
        <h1 class="font-mono font-extrabold text-blue-700 text-l">Rayon du cercle</h1>
       </template>

@@ -5,6 +5,7 @@ import { Figure } from "m2d/src/ts/Figure";
 import Icons from './components/Icons.vue'
 import Styler from './components/Styler.vue'
 import ModalRadius from './components/ModalRadius.vue'
+import ModalPointByCoords from './components/ModalPointByCoords.vue'
 
 const figure = new Figure({
   width: window.screen.width - 300,
@@ -31,6 +32,7 @@ onMounted(() => {
   </div>
 
   <ModalRadius/>
+  <ModalPointByCoords/>
 
   
 </template>
