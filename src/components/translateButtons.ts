@@ -14,7 +14,8 @@ const translations:{ [key: string]: string } = {
     'bissectrice': 'angleBissector',
     'pointIntersection': 'intersectionLL',
     'cerclePoint': 'circlePoint',
-    'cercleRayon': 'circleRadius'
+    'cercleRayon': 'circleRadius',
+    'symetrieCentrale' : 'reflectAboutPoint'
 }
 
 export function translateButton(frenchWord: string) {
