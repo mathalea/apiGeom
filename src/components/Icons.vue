@@ -48,7 +48,7 @@ function toggleState (name: string) {
 <input v-model="searchText" type="search" autocomplete="off" placeholder="Rechercher..."
   class="border-2 mb-2 w-60 "
  >
-<ul v-for="liste of listes" :key="liste">
+<ul v-for="liste of listes" :key='liste'>
   <li class="inline" v-for="name of liste" :key='name' >
    <img
     class="

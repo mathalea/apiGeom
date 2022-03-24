@@ -6,6 +6,7 @@ import Icons from './components/Icons.vue'
 import Styler from './components/Styler.vue'
 import ModalRadius from './components/ModalRadius.vue'
 import ModalPointByCoords from './components/ModalPointByCoords.vue'
+import ModalRotation from './components/ModalRotation.vue'
 
 const figure = new Figure({
   width: window.screen.width - 300,
@@ -33,6 +34,7 @@ onMounted(() => {
 
   <ModalRadius/>
   <ModalPointByCoords/>
+  <ModalRotation/>
 
   
 </template>
