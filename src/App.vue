@@ -9,8 +9,8 @@ import ModalPointByCoords from './components/ModalPointByCoords.vue'
 import ModalRotation from './components/ModalRotation.vue'
 
 const figure = new Figure({
-  width: window.screen.width - 300,
-  height: window.screen.availHeight - 100,
+  width: window.innerWidth  - 400,
+  height: window.innerHeight - 150,
 });
 
 

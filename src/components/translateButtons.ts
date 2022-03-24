@@ -15,6 +15,7 @@ const translations:{ [key: string]: string } = {
     'pointIntersection': 'intersectionLL',
     'cerclePoint': 'circlePoint',
     'cercleRayon': 'circleRadius',
+    'cercleCompas' : 'circleByDistanceAndCenter',
     'symetrieCentrale' : 'reflectAboutPoint'
 }
 

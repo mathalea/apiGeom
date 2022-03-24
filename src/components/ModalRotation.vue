@@ -10,7 +10,10 @@ const inputAngle = ref(null)
 window.addEventListener('waitForAngle', async () => {
   showModalRotation.value = true
   await nextTick()
-  if (inputAngle.value) inputAngle.value.focus()
+  if (inputAngle.value) {
+    const input = inputAngle.value as HTMLElement
+    input.focus()
+  } 
 })
 
 function addRotation() {

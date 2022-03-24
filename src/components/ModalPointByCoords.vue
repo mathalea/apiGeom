@@ -11,7 +11,10 @@ const inputX = ref(null)
 window.addEventListener('waitForCoords', async () => {
   showModalPointByCoords.value = true
   await nextTick()
-  if (inputX.value) inputX.value.focus()
+  if (inputX.value) {
+    const input = inputX.value as HTMLElement
+    input.focus()
+  } 
 })
 
 function addPoint() {

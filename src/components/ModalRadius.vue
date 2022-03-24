@@ -10,7 +10,10 @@ const inputRadius = ref(null)
 window.addEventListener('waitForRadius', async () => {
   showModalRadius.value = true
   await nextTick()
-  if (inputRadius.value) inputRadius.value.focus()
+  if (inputRadius.value) {
+    const input = inputRadius.value as HTMLElement
+    input.focus()
+  }
 })
 
 function addCircle() {
