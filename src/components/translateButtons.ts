@@ -19,7 +19,7 @@ const translations:{ [key: string]: string } = {
     'cercleRayon': 'circleRadius',
     'cercleCompas' : 'circleByDistanceAndCenter',
     'symetrieCentrale' : 'reflectAboutPoint',
-    'symetrieAxiale' : 'reflectionOverLine'
+    'symetrieAxiale' : 'reflectionOverLine',
 }
 
 export function translateButton(frenchWord: string) {
