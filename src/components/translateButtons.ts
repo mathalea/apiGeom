@@ -18,7 +18,8 @@ const translations:{ [key: string]: string } = {
     'cerclePoint': 'circlePoint',
     'cercleRayon': 'circleRadius',
     'cercleCompas' : 'circleByDistanceAndCenter',
-    'symetrieCentrale' : 'reflectAboutPoint'
+    'symetrieCentrale' : 'reflectAboutPoint',
+    'symetrieAxiale' : 'reflectionOverLine'
 }
 
 export function translateButton(frenchWord: string) {
