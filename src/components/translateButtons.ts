@@ -3,6 +3,7 @@ const translations:{ [key: string]: string } = {
     'cacher': 'hide',
     'supprimer': 'erase',
     'pointLibre': 'freePoint',
+    'pointSur' : 'pointOn',
     'pointMilieu': 'middle',
     'pointCoordonnees': 'pointByCoords',
     'droite': 'line',
