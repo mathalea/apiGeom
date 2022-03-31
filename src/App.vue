@@ -8,6 +8,7 @@ import ModalRadius from './components/ModalRadius.vue'
 import ModalPointByCoords from './components/ModalPointByCoords.vue'
 import ModalRotation from './components/ModalRotation.vue'
 import ModalHomothetie from './components/ModalHomothetie.vue'
+import ModalRegularPolygon from './components/ModalRegularPolygon.vue'
 
 const figure = new Figure({
   width: window.innerWidth  - 400,
@@ -37,6 +38,7 @@ onMounted(() => {
   <ModalPointByCoords/>
   <ModalRotation/>
   <ModalHomothetie/>
+  <ModalRegularPolygon/>
 
   
 </template>

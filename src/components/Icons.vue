@@ -47,7 +47,7 @@ function toggleState (name: string) {
 </script>
 
 <template>
-<h1 class="font-mono font-extrabold text-blue-700 text-xl">apiGeom</h1>
+<h1 class="font-mono font-extrabold text-blue-700 text-xl">apiGeom<span class="inline text-xs text-slate-500"> version 0.1</span></h1>
 <input v-model="searchText" type="search" autocomplete="off" placeholder="Rechercher..."
   class="border-2 mb-2 w-60 "
  >

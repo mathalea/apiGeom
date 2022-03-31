@@ -20,7 +20,8 @@ const translations:{ [key: string]: string } = {
     'cercleCompas': 'circleByDistanceAndCenter',
     'symetrieCentrale': 'reflectAboutPoint',
     'symetrieAxiale': 'reflectionOverLine',
-    'marqueAngle': 'markAngle'
+    'marqueAngle': 'markAngle',
+    'polygoneRegulier': 'regularPolygon'
 }
 
 export function translateButton(frenchWord: string) {
