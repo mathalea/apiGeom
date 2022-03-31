@@ -9,13 +9,16 @@ const props = defineProps<{
 
 const searchText = ref('')
 
-const drag = ['drag', 'nommerPoint', 'setOptions', 'cacher', 'supprimer']
+// const drag = ['drag', 'nommerPoint', 'setOptions', 'cacher', 'supprimer']
+const drag = ['drag', 'setOptions', 'cacher', 'supprimer']
 const points = ['pointLibre', 'pointSur', 'pointIntersection', 'pointMilieu', 'pointCoordonnees']
-const traits = ['segment', 'droite', 'demiDroite', 'vecteur', 'polygone']
+// const traits = ['segment', 'droite', 'demiDroite', 'vecteur', 'polygone']
+const traits = ['segment', 'droite', 'demiDroite', 'polygone']
 const droitesParticulieres = ['droiteParallele', 'droitePerpendiculaire', 'mediatrice', 'bissectrice']
 const cercles = ['cerclePoint', 'cercleRayon', 'cercleCompas', 'polygoneRegulier']
 const transformations = ['symetrieAxiale', 'symetrieCentrale', 'translation', 'rotation', 'homothetie']
-const affichages = ['mesureLongueur', 'mesureAngle', 'marqueSegment', 'marqueAngle']
+// const affichages = ['mesureLongueur', 'mesureAngle', 'marqueSegment', 'marqueAngle']
+const affichages = ['marqueAngle']
 
 function filtreListe(liste: string[]) {
  if (searchText.value.length === 0) return liste
