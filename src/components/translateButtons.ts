@@ -17,9 +17,10 @@ const translations:{ [key: string]: string } = {
     'pointIntersection': 'intersectionLL',
     'cerclePoint': 'circlePoint',
     'cercleRayon': 'circleRadius',
-    'cercleCompas' : 'circleByDistanceAndCenter',
-    'symetrieCentrale' : 'reflectAboutPoint',
-    'symetrieAxiale' : 'reflectionOverLine',
+    'cercleCompas': 'circleByDistanceAndCenter',
+    'symetrieCentrale': 'reflectAboutPoint',
+    'symetrieAxiale': 'reflectionOverLine',
+    'marqueAngle': 'markAngle'
 }
 
 export function translateButton(frenchWord: string) {
