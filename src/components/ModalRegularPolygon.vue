@@ -28,7 +28,7 @@ function addRegularPolygon() {
   <Teleport to="body">
     <modal :show="showModalRegularPolygon" @close="showModalRegularPolygon = false">
       <template #header>
-       <h1 class="font-mono font-extrabold text-blue-700 text-l">Nomnbre de côtés</h1>
+       <h1 class="font-mono font-extrabold text-blue-700 text-l">Nombre de côtés</h1>
       </template>
       <template #body>
         <input ref="inputRegularPolygon" v-model="numberOfSides" v-on:keyup.enter="addRegularPolygon" type="number" min="0" class="border border-black rounded-lg p-1" />
