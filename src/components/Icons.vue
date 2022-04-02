@@ -18,7 +18,7 @@ const droitesParticulieres = ['droiteParallele', 'droitePerpendiculaire', 'media
 const cercles = ['cerclePoint', 'cercleRayon', 'cercleCompas', 'polygoneRegulier']
 const transformations = ['symetrieAxiale', 'symetrieCentrale', 'translation', 'rotation', 'homothetie']
 // const affichages = ['mesureLongueur', 'mesureAngle', 'marqueSegment', 'marqueAngle']
-const affichages = ['marqueAngle']
+const affichages = ['marqueAngle', 'save']
 
 function filtreListe(liste: string[]) {
  if (searchText.value.length === 0) return liste
@@ -42,6 +42,7 @@ function toggleState (name: string) {
   selectedIcon.value = name
   props.figure.pointerAction = translateButton(name)
 }
+
 
 
 </script>

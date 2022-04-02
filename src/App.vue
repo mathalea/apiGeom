@@ -21,6 +21,7 @@ onMounted(() => {
   svg?.appendChild(figure.svg);
   figure.svg.style.border = "solid";
 });
+
 </script>
 
 
