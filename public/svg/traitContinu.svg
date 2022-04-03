@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="48.542221mm"
-   height="48.542221mm"
-   viewBox="0 0 172 172"
+   width="183.46666"
+   height="36"
+   viewBox="0 0 172 33.750001"
    id="svg7795"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="DeplacerCroix.svg"
+   sodipodi:docname="traitContinu.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.1671513"
-     inkscape:cx="91.733331"
-     inkscape:cy="91.733331"
+     inkscape:zoom="7.6035613"
+     inkscape:cx="35.378159"
+     inkscape:cy="18.017873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,9 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     units="px"
+     height="40px" />
   <metadata
      id="metadata7800">
     <rdf:RDF>
@@ -58,12 +60,9 @@
      id="layer1"
      transform="translate(-222.57143,-232.07648)">
     <path
-       id="rect1225-3"
-       style="fill:#4d4d4d;stroke:#333333;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round"
-       d="m 273.42827,258.65045 -4.28859,16.54236 -16.54238,-4.28858 -1.81965,7.01893 16.54237,4.28859 -4.28859,16.54237 7.01893,1.81966 4.2886,-16.54237 16.54415,4.28905 1.81964,-7.01894 -16.54414,-4.28905 4.2886,-16.54237 z" />
-    <path
-       id="rect1575"
-       style="fill:#0000ff;stroke:#000080;stroke-width:2.8125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 315.17268,274.25336 -19.96665,22.76627 15.01387,-0.10537 v 19.32699 h -19.76077 l 0.10773,-14.6843 -23.27726,19.52834 22.98522,20.47654 0.10289,-14.18562 h 19.84217 v 19.327 l -15.01389,-0.10537 19.96665,22.76629 20.93614,-22.48065 -14.504,-0.10067 v -19.40659 h 19.84216 l 0.10289,14.18562 22.98523,-20.47655 -23.27728,-19.52833 0.10773,14.6843 h -19.7608 V 296.8347 l 14.50399,-0.10067 z" />
+       style="fill:none;stroke:#000000;stroke-width:7.80938;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 235.17991,248.95148 H 381.96294"
+       id="path2564"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

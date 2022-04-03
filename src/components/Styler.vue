@@ -72,11 +72,11 @@ function updateDashed() {
   <p class="font-semibold text-slate-800 mt-2">Style</p>
   <div class="mt-2 grid grid-cols-2 gap-3 grid-rows-1 w-32">
     <img class="cursor-pointer" :class="{ 'bg-slate-200': dashed }" 
-      src="/png/traitTrait.png"
+      src="/svg/traitPointilles.svg"
       @click="updateDashed()"
     />
     <img class="cursor-pointer" :class="{ 'bg-slate-200': !dashed }"
-      src="/png/traitContinu.png"
+      src="/svg/traitContinu.svg"
       @click="updateDashed()" 
     />
   </div>

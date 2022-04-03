@@ -18,7 +18,8 @@ const droitesParticulieres = ['droiteParallele', 'droitePerpendiculaire', 'media
 const cercles = ['cerclePoint', 'cercleRayon', 'cercleCompas', 'polygoneRegulier']
 const transformations = ['symetrieAxiale', 'symetrieCentrale', 'translation', 'rotation', 'homothetie']
 // const affichages = ['mesureLongueur', 'mesureAngle', 'marqueSegment', 'marqueAngle']
-const affichages = ['marqueAngle', 'save']
+const affichages = ['marqueAngle']
+const menu = ['save', 'latex']
 
 function filtreListe(liste: string[]) {
  if (searchText.value.length === 0) return liste
@@ -34,8 +35,9 @@ const filteredDroitesParticulieres = computed(() => { return filtreListe(droites
 const filteredCercles = computed(() => { return filtreListe(cercles)})
 const filteredTransformations = computed(() => { return filtreListe(transformations)})
 const filteredAffichages = computed(() => { return filtreListe(affichages)})
+const filteredMenu = computed(() => { return filtreListe(menu)})
 
-const listes = computed(() => [filteredDrag.value, filteredPoints.value, filteredTraits.value, filteredDroitesParticulieres.value, filteredCercles.value, filteredTransformations.value, filteredAffichages.value] ) 
+const listes = computed(() => [filteredDrag.value, filteredPoints.value, filteredTraits.value, filteredDroitesParticulieres.value, filteredCercles.value, filteredTransformations.value, filteredAffichages.value, filteredMenu.value] ) 
 const selectedIcon = ref('drag')
 
 function toggleState (name: string) {
