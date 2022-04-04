@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.542221mm"
+   height="48.542221mm"
+   viewBox="0 0 172 172"
+   id="svg4907"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="cercleCentreRayonSemantique.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4909" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.6465043"
+     inkscape:cx="49.607185"
+     inkscape:cy="91.574218"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="599"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata4912">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.28571509,2.2092247)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.99194241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:none"
+       d="m 85.714258,83.790784 c 74.848992,-1 74.848992,-1 74.848992,-1"
+       id="path4229"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\CercOR.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628" />
+    <circle
+       r="75"
+       cy="84.790787"
+       cx="85.714264"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#d40000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3386-1"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\CercOR.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.937791;stroke-miterlimit:4;stroke-dasharray:none"
+       x="107.05305"
+       y="74.057793"
+       id="text2124"><tspan
+         sodipodi:role="line"
+         id="tspan2122"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#009100;fill-opacity:1;stroke-width:0.937791"
+         x="107.05305"
+         y="74.057793">R</tspan></text>
+    <path
+       id="rect1225"
+       style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round"
+       d="M 99.5495,66.706063 87.331997,78.654889 75.383162,66.437387 70.199272,71.50728 82.148095,83.724783 69.9306,95.673615 75.000491,100.85752 87.218003,88.908681 99.16812,101.1275 104.35201,96.057594 92.401893,83.83879 104.61941,71.889948 Z" />
+  </g>
+</svg>

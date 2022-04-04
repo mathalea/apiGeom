@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.542221mm"
+   height="48.542221mm"
+   viewBox="0 0 172 172"
+   id="svg10117"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="DtePer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10119" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.3386034"
+     inkscape:cx="46.213028"
+     inkscape:cy="91.619344"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="599"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata10122">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-373.99999,-383.50506)">
+    <path
+       style="fill:none;stroke:#0084c8;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 484.14415,468.26755 -11.51804,-12.43848 -13.46788,12.43524"
+       id="path4801-2-7-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\Milieu.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 383.31678,388.42195 531.44,550.98326"
+       id="path5128-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\DtePer.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#009100;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 397.59596,550.68609 540.06153,421.57819"
+       id="path5128-6-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\DtePer.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect1225"
+       style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 417.88894,407.69215 -0.69256,17.07519 -17.0752,-0.69256 -0.29386,7.24501 17.0752,0.69257 -0.69256,17.07519 7.24501,0.29386 0.69257,-17.0752 17.07703,0.69264 0.29385,-7.24502 -17.07702,-0.69263 0.69256,-17.07521 z" />
+  </g>
+</svg>

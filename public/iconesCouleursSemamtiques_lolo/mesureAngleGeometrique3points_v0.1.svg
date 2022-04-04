@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.542221mm"
+   height="48.542221mm"
+   viewBox="0 0 172 172"
+   id="svg7795"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mesureAngleGeometrique3pointsSemantique.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs7797" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9000779"
+     inkscape:cx="49.357988"
+     inkscape:cy="88.075164"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="599"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7800">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-222.57143,-232.07648)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#0e232e;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6264"
+       sodipodi:cx="244.52017"
+       sodipodi:cy="376.73309"
+       sodipodi:rx="67.999687"
+       sodipodi:ry="68"
+       d="m 268.50855,313.10486 a 67.999687,68 0 0 1 42.85242,51.12759"
+       sodipodi:start="5.0729207"
+       sodipodi:end="6.0983008"
+       sodipodi:open="true"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\MesureAngNor.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628"
+       sodipodi:arc-type="arc" />
+    <path
+       style="fill:none;stroke:#0e232e;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 389.67549,349.09578 243.2622,378.34615 296.32967,237.13475"
+       id="path6262"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\MesureAngNor.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none"
+       d="m 336.2627,260.16392 c -12.20696,0.0224 -21.20234,11.17034 -21.25983,22.86203 6.09774,0.38514 14.13205,4.22729 13.87214,-4.2665 2.05322,-11.79803 21.83366,-8.55781 19.91251,3.10365 -3.66805,9.07982 -16.4699,13.17583 -16.52234,24.43175 -2.64944,8.8137 3.77978,9.37979 11.38394,8.23479 0.54827,-5.42192 1.19786,-12.99284 7.48538,-16.3264 9.64989,-6.41656 14.51254,-20.77734 6.14338,-30.19443 -5.00431,-6.21541 -13.25257,-8.45073 -21.01518,-7.84489 z m -4.62051,58.93734 c -5.13176,11.55132 7.6224,14.62089 13.54999,9.75052 3.18188,-11.6825 -3.14444,-13.88333 -13.54681,-12.01951 l -0.002,1.6135 -9.2e-4,0.65549 z"
+       id="text4660-8-3-1-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\MesureAngNor.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628" />
+    <path
+       id="rect1225"
+       style="fill:#009100;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 228.0792,365.45782 11.16893,12.93433 -12.93433,11.16893 4.73897,5.48806 12.93433,-11.16893 11.16892,12.93432 5.48806,-4.73897 -11.16893,-12.93434 12.93572,-11.17012 -4.73897,-5.48806 -12.93571,11.17012 -11.16894,-12.93433 z" />
+    <path
+       id="rect1225-6"
+       style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 277.79376,240.25165 4.79649,16.4023 -16.4023,4.7965 2.03515,6.9595 16.40231,-4.79649 4.79649,16.4023 6.95951,-2.03515 -4.79649,-16.40231 16.40406,-4.79701 -2.03516,-6.95951 -16.40405,4.79702 -4.7965,-16.40232 z" />
+    <path
+       id="rect1225-9"
+       style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 368.42128,333.33359 -4.40246,16.51243 -16.51243,-4.40246 -1.86797,7.00623 16.51243,4.40246 -4.40246,16.51243 7.00623,1.86797 4.40247,-16.51243 16.5142,4.40293 1.86796,-7.00624 -16.51419,-4.40292 4.40246,-16.51244 z" />
+  </g>
+</svg>
