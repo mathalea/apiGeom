@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.542221mm"
+   height="48.542221mm"
+   viewBox="0 0 172 172"
+   id="svg9584"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mersureAngleOrienteSemantique.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs9586" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.3386034"
+     inkscape:cx="92.080322"
+     inkscape:cy="127.11464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="599"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata9589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.428573,-169.21935)">
+    <path
+       style="fill:none;stroke:#0e232e;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 252.76502,321.05417 108.4986,318.49066 174.03635,173.03823"
+       id="path6262"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\24\MarqueAngNor.png"
+       inkscape:export-xdpi="12.55814"
+       inkscape:export-ydpi="12.55814"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="rect1225"
+       style="fill:#009100;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 93.803141,303.52038 10.528829,13.46052 -13.460534,10.52884 4.467379,5.7113 13.460535,-10.52882 10.52883,13.46052 5.7113,-4.46738 -10.52882,-13.46053 13.46198,-10.52996 -4.4674,-5.71131 -13.46196,10.52996 -10.528836,-13.46054 z" />
+    <path
+       id="rect1225-3"
+       style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 235.80507,305.70241 -13.95942,9.8578 -9.85781,-13.95944 -5.92299,4.18268 9.8578,13.95942 -13.95943,9.85781 4.18267,5.92299 13.95943,-9.8578 9.85886,13.96093 5.923,-4.18267 -9.85886,-13.96092 13.95944,-9.85781 z" />
+    <path
+       id="rect1225-4"
+       style="fill:#009100;stroke:none;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       d="m 154.71904,190.33971 -0.69256,17.07519 -17.0752,-0.69256 -0.29385,7.24501 17.07519,0.69257 -0.69256,17.07519 7.24501,0.29386 0.69257,-17.0752 17.07703,0.69264 0.29385,-7.24502 -17.07702,-0.69263 0.69256,-17.07521 z" />
+    <g
+       id="g874">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#0e232e;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6264"
+         sodipodi:cx="109.4986"
+         sodipodi:cy="316.49066"
+         sodipodi:rx="67.999687"
+         sodipodi:ry="68"
+         d="m 153.48192,264.63076 a 67.999687,68 0 0 1 23.97133,54.33427"
+         sodipodi:start="5.4157918"
+         sodipodi:end="0.03639578"
+         sodipodi:open="true"
+         inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\24\MarqueAngNor.png"
+         inkscape:export-xdpi="12.55814"
+         inkscape:export-ydpi="12.55814"
+         sodipodi:arc-type="arc" />
+      <path
+         style="fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 152.88951,277.94855 -10.72071,-24.57808 25.04691,10.17677 z"
+         id="path2423"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none"
+       d="m 197.71478,217.65093 c -12.20696,0.0224 -21.20234,11.17034 -21.25983,22.86203 6.09774,0.38514 14.13205,4.22729 13.87214,-4.2665 2.05322,-11.79803 21.83366,-8.55781 19.91251,3.10365 -3.66805,9.07982 -16.4699,13.17583 -16.52234,24.43175 -2.64944,8.8137 3.77978,9.37979 11.38394,8.23479 0.54827,-5.42192 1.19786,-12.99284 7.48538,-16.3264 9.64989,-6.41656 14.51254,-20.77734 6.14338,-30.19443 -5.00431,-6.21541 -13.25257,-8.45073 -21.01518,-7.84489 z m -4.62051,58.93734 c -5.13176,11.55132 7.6224,14.62089 13.54999,9.75052 3.18188,-11.6825 -3.14444,-13.88333 -13.54681,-12.01951 l -0.002,1.6135 -9.2e-4,0.65549 z"
+       id="text4660-8-3-1-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Seb\Downloads\maths\Mathgraph32\Icones\png\48\MesureAngNor.png"
+       inkscape:export-xdpi="25.11628"
+       inkscape:export-ydpi="25.11628" />
+  </g>
+</svg>
